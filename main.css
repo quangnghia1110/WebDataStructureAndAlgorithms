@@ -1,0 +1,40 @@
+body {
+	font-family: 'Poppins', sans-serif;
+	background: grey;
+
+}
+.project{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-top: 180px;
+  }
+  .project3{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.project4{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.project5{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+
+}
+a{
+    margin: 15px;
+}
+.v{
+    color: black;
+}
+
+  
